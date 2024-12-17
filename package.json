@@ -1,0 +1,8 @@
+{
+  "name": "auto-changelog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/NotSoEz/auto-changelog.git",
+  "author": "NotSoEz <190189325+NotSoEz@users.noreply.github.com>",
+  "license": "MIT"
+}
